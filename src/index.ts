@@ -12,11 +12,11 @@ const option = {
         openapi : '3.0.0',
         info:{
             title:'Nodejs API Project with Swagger',
-            version:'1.0.0'
+            version:'2.0.0'
         },
         servers:[
             {
-               url:'http://localhost:3000/'
+               url:'http://localhost:3001/'
             }
         ]
     },
